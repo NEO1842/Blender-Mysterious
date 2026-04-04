@@ -1,33 +1,38 @@
 ---English---
 
-This is a Blender scene for creating a fireworks simulation using a particle system. 
+This is a Blender particle visualization scene.
 
-Rendering settings: 
+Thousands of glowing particles form an abstract flowing structure with blue and orange light interacting in space.
 
-Rendering engine: Eevee, 
+Rendering Settings
 
-Sampling: 64, 
+Rendering Engine: Eevee
 
-Denoising: None. 
+Sampling: 64
 
-Check out the video! 
+Denoising: None
 
-https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link
+Check out the animation!
+
+https://drive.google.com/your-video-link
+
+---
 
 ---日本語---
 
-これは、パーティクルシステムを使用して花火のシミュレーションを作成するためのBlenderシーンです。
+これはBlenderで作成されたパーティクルビジュアライゼーションです。
 
-レンダリング設定 
+数千の発光粒子が流れるような抽象形状を作り、
+青とオレンジの光が空間で相互作用する表現になっています。
 
-レンダリング エンジン: Eevee
+レンダリング設定
 
-サンプリング レート: 64
+レンダリングエンジン：Eevee
+サンプリング：64
+ノイズ除去：なし
 
-ノイズ除去: なし。
+動画もぜひご覧ください！
 
-動画をご確認ください！
+https://drive.google.com/your-video-link
 
-https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link
-
-![Preview](Firework.png)
+![Preview](Mysterious.png)
