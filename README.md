@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="VIDEO_LINK">
+<a href="https://drive.google.com/file/d/1tZ723h1oLN-rEf6d0DjnjTNdBP_rOvSr/view?usp=drive_link">
 <img src="Blender-Mysterious/Mysterious.png" width="600">
 </a>
 
@@ -62,7 +62,7 @@ Please comply with the laws and license conditions of your country.
 
 <div align="center">
 
-<a href="VIDEO_LINK">
+<a href="https://drive.google.com/file/d/1tZ723h1oLN-rEf6d0DjnjTNdBP_rOvSr/view?usp=drive_link">
 <img src="Blender-Mysterious/Mysterious.png" width="600">
 </a>
 
