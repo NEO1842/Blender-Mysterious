@@ -1,12 +1,14 @@
+<h1 align="center">Blender Mysterious</h1>
+
 <p align="center">
 ---English---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the image to watch the animation.
 </p>
 
-<div align="center">
-
+<p align="center">
 <a href="https://drive.google.com/file/d/1tZ723h1oLN-rEf6d0DjnjTNdBP_rOvSr/view?usp=drive_link">
 <img src="Blender-Mysterious/Mysterious.png" width="600">
 </a>
+</p>
 
 # Blender Mysterious
 
@@ -55,6 +57,8 @@ The creator is not responsible for any issues arising from the use of this proje
 Please comply with the laws and license conditions of your country.
 
 ---
+
+<h1 align="center">Blender Mysterious</h1>
 
 <p align="center">
 ---日本語---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;画像をクリックするとアニメーションが再生されます。
