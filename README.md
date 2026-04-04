@@ -66,7 +66,7 @@ Please comply with the laws and license conditions of your country.
 <img src="Blender-Mysterious/Mysterious.png" width="600">
 </a>
 
-# Blenderミステリアス
+# Blender Mysterious
 
 これは、神秘的な抽象パーティクルビジュアルを作るBlenderシーンです。
 
