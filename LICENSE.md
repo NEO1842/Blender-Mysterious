@@ -6,7 +6,7 @@ Copyright (c) 2026 岡村 剛
 
 ---
 This project is based on the tutorial and techniques by Ducky 3D.
-Original Inspiration: https://www.youtube.com/watch?v=wzRTGJXwYBg&t=1395s
+Original Inspiration: https://www.youtube.com/watch?v=2bv973aqx-w
 ---
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -30,7 +30,7 @@ SOFTWARE.
 # Credit
 
 If you use or redistribute this project, please include a link to the original repository:
-https://github.com/NEO1842/Blender-Cybercore
+https://github.com/NEO1842/Blender-Mysterious
 
 
 ---
@@ -42,10 +42,13 @@ MITライセンス
 Copyright (c) 2026 岡村 剛
 
 ---
-このプロジェクトは、Ducky 3D のチュートリアルとテクニックに基づいています。元のインスピレーション: https://www.youtube.com/watch?v=wzRTGJXwYBg&t=1395s
+このプロジェクトは、Ducky 3D のチュートリアルとテクニックに基づいています。
+元のインスピレーション: https://www.youtube.com/watch?v=2bv973aqx-w
 ---
+
 本ソフトウェアおよび関連ドキュメントファイル（以下「ソフトウェア」といいます）のコピーを入手した者は、以下の条件に従い、
-ソフトウェアを無制限に取り扱う権利（使用、複製、変更、結合、公開、配布、サブライセンス、および／または販売する権利を含みますが、これらに限定されません）と、
+ソフトウェアを無制限に取り扱う権利
+（使用、複製、変更、結合、公開、配布、サブライセンス、および／または販売する権利を含みますが、これらに限定されません）と、
 ソフトウェアの提供を受けた者がこれを行うことを許可する権利を、無償で許諾されます。
 
 上記の著作権表示および本許諾表示は、ソフトウェアのすべての複製物または実質的な部分に含めるものとします。
@@ -58,4 +61,4 @@ Copyright (c) 2026 岡村 剛
 # クレジット
 
 このプロジェクトを使用または再配布する場合は、元のリポジトリへのリンクを記載してください：
-https://github.com/NEO1842/Blender-Cybercore
+https://github.com/NEO1842/Blender-Mysterious
