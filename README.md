@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1fNP0P-97YggKlNdIKnXh-U8A6TnlS5hB/view?usp=drivesdk">
-<img src="Blender-Mysterious/Mysterious.png" width="600">
+<img src="Blender%20Mysterious/Mysterious.png" width="600">
 </a>
 </p>
 
@@ -66,7 +66,7 @@ Please comply with the laws and license conditions of your country.
 
 <div align="center">
 <a href="https://drive.google.com/file/d/1fNP0P-97YggKlNdIKnXh-U8A6TnlS5hB/view?usp=drivesdk">
-<img src="Blender-Mysterious/Mysterious.png" width="600">
+<img src="Blender%20Mysterious/Mysterious.png" width="600">
 </a>
 
 # Blender Mysterious
