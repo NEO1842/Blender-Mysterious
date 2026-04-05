@@ -14,7 +14,7 @@ Denoising: None
 
 Check out the video!
 
-https://drive.google.com/file/d/1tZ723h1oLN-rEf6d0DjnjTNdBP_rOvSr/view?usp=drive_link
+https://drive.google.com/file/d/1fNP0P-97YggKlNdIKnXh-U8A6TnlS5hB/view?usp=drivesdk
 
 ---
 
@@ -34,6 +34,6 @@ https://drive.google.com/file/d/1tZ723h1oLN-rEf6d0DjnjTNdBP_rOvSr/view?usp=drive
 
 動画もぜひご覧ください！
 
-https://drive.google.com/file/d/1tZ723h1oLN-rEf6d0DjnjTNdBP_rOvSr/view?usp=drive_link
+https://drive.google.com/file/d/1fNP0P-97YggKlNdIKnXh-U8A6TnlS5hB/view?usp=drivesdk
 
 ![Preview](Mysterious.png)
