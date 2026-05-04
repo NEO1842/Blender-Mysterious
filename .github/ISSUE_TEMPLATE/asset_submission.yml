@@ -1,0 +1,34 @@
+name: Asset Submission
+description: Submit a Blender asset or experiment
+title: "[Asset] "
+labels: ["asset"]
+
+body:
+  - type: input
+    attributes:
+      label: 📦 Asset Name
+      placeholder: Name of your asset
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 📝 Description
+      description: What does this asset do?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: ⚙️ Details
+      description: Geometry Nodes, Materials, etc.
+
+  - type: textarea
+    attributes:
+      label: 📸 Preview
+      description: Add images or GIFs
+
+  - type: input
+    attributes:
+      label: Blender Version
+      placeholder: e.g. 3.6
