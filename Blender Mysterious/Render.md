@@ -16,6 +16,8 @@ Check out the video!
 
 https://drive.google.com/file/d/1fNP0P-97YggKlNdIKnXh-U8A6TnlS5hB/view?usp=drivesdk
 
+![Preview](Mysterious.png)
+
 ---
 
 ---日本語---
